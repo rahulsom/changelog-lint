@@ -1,0 +1,7 @@
+= Changelog Lint
+
+It's a good idea to https://keepachangelog.com/[keep a changelog].
+But how do you know if your changelog is correct?
+This plugin will check your `CHANGELOG.md` to verify it adheres to the spec.
+Also you can check if the current version has an entry in the changelog.
+
